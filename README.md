@@ -24,4 +24,3 @@ After fitting our model, we will be predicting the future in this stage. Since w
 
 ## 6 . Conclusion
 Finally, we were able to build an ARIMA model and actually forecast for a future time period. Keep note that this is a basic implementation to get one started with time series forecasting. There are a lot of concepts like smoothening etc and models like ARIMAX, prophet, etc to build your time series models.
- 
